@@ -1,0 +1,56 @@
+# The URL the site will be built for
+base_url = "https://itscoho.github.io"
+title = "Coho's Blog"
+description = "Personal blog about technology, programming, and more"
+
+theme = "terminimal"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+# generate_feed = true
+
+# Enable tags taxonomy
+taxonomies = [
+    {name = "tags"}
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+highlight_theme = "dracula"
+
+[extra]
+# Put all your custom variables here
+author = "Coho"
+
+# Theme specific settings
+accent_color = "green"
+background_color = "blue"
+logo_text = "Matthew (Coho) Gross"
+
+# Menu items
+menu_items = [
+    {name = "home", url = "/"},
+    {name = "resume", url = "/resume"},
+    {name = "blog", url = "/blog"},
+]
+
+# Post navigation
+enable_post_view_navigation = true
+post_view_navigation_prompt = "Thanks for reading! Read other posts?"
+
+# Font settings
+use_full_hack_font = false
+use_code_label = true
+center_text = false
+
+# Title settings
+page_titles = "main_only"
+
+# Terminimal theme parameters
+show_word_count = true
+show_reading_time = true
