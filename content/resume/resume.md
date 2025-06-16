@@ -66,3 +66,11 @@ template = "page.html"
 * Managed Nintendo certification pipeline for release candidates
 * Sole engineer responsible partnering with Konami to support Japanese language, SDK's, bug fixes, and region-specific features using Konami’s IP
 * Developed multiple gameplay systems and modes
+
+----- 
+# Skills and Technology
+* <span style="color:rgb(24, 192, 128) ;">Languages:</span> C/C++, Python, Bash, Rust, Go, C#, Java
+* <span style="color:rgb(24, 192, 128) ;">Platforms:</span> Windows, Linux, IOS, WiiU, 3DS, DS
+* <span style="color:rgb(24, 192, 128) ;">APIs and IDEs:</span> Visual Studio, XCode, Direct X, SDL, Noesis, IKinema, Havok Behavior Animation Tool
+* <span style="color:rgb(24, 192, 128) ;">Applications:</span> Perforce, Git, Github, SVN,Notion, Confluence, Jira, Vim, TeamCity, Jenkins, Code Collaborator, Lint, Bugsplat, Backtrace, AWS, Docker, Kubernetes, FluxCD, ArgoWorkflows, Honeycomb.io, Grafana, UnrealEngine 5, Cursor, Github CoPilot, Claude
+
