@@ -15,7 +15,7 @@ template = "page.html"
 * 10 years of Engineering Leadership building teams across 4 companies
 * Deep experience building performant front-end applications, robust CI/CD ecosystems, and backend services on self-hosted and cloud infrastructure
 -----
-# <span style="color: lightblue;">Believer Entertainment, Remote (2023-Present)</span>
+# <img src="/logos/believer.png" alt="Believer Entertainment" style="height: 1.2em; vertical-align: middle; margin-right: 8px;"> <span style="color: lightblue;">Believer Entertainment, Remote (2023-Present)</span>
 <span style="color: rgb(24, 192, 128);">Director of Engineering</span>
 * Founding leader building a distributed engineering team of 25+ engineers for a $60M AAA OpenWorld online 8 player co-op game in Unreal Engine 5 for PC and iOS.
 * Drove development on a cutting edge build, workflow, and deployment ecosystem to provide 80+ daily playtestable game builds for a distributed development team using Git, Github, and Kubernetes on AWS in Singapore, Korea, and US.
@@ -24,14 +24,14 @@ template = "page.html"
 
 ***
 
-# <span style="color: lightblue;">ProbablyMonsters, Seattle/Remote (2020-2023)</span>
+# <img src="/logos/pm.png" alt="ProbablyMonsters" style="height: 1.2em; vertical-align: middle; margin-right: 8px;"> <span style="color: lightblue;">ProbablyMonsters, Seattle/Remote (2020-2023)</span>
 <span style="color:rgb(24, 192, 128) ;">Director of Engineering, Developer Productivity </span>
 * Built and scaled a 21-person engineering org (Build, Infrastructure, Development Workflow, and Web) supporting 4 game development teams for a $250M portfolio.
 * Partnered with leadership and HR teams to develop cutting-edge hiring and career growth tools for a 100+ engineer technical organization.
 
 ***
 
-# <span style="color: lightblue;">Wookey Project Corp, Remote (2020)</span>
+# <img src="/logos/wookey.png" alt="Wookey Project Corp" style="height: 1.2em; vertical-align: middle; margin-right: 8px;"> <span style="color: lightblue;">Wookey Project Corp, Remote (2020)</span>
 <span style="color:rgb(24, 192, 128) ;">Director of Engineering</span>
 * Drove transfer of operations and development on the metaverse “Sansar” in the span of 3 months
 * Led mobile development team to create a new iOS/Android app for viewing live Sansar music events
@@ -39,7 +39,7 @@ template = "page.html"
 
 ***
 
-# <span style="color: lightblue;">Linden Lab, Seattle/Remote (2015 - 2020)</span>
+# <img src="/logos/ll.png" alt="Linden Lab" style="height: 1.2em; vertical-align: middle; margin-right: 8px;"> <span style="color: lightblue;">Linden Lab, Seattle/Remote (2015 - 2020)</span>
 <span style="color:rgb(24, 192, 128) ;">Director of Engineering (2018 - 2020)</span><br>
 <span style="color:rgb(24, 192, 128) ;">Engineering Manager (2018)</span><br>
 <span style="color:rgb(24, 192, 128) ;">Senior Software Engineer (2016 - 2018)</span><br>
@@ -49,7 +49,7 @@ template = "page.html"
 * Drove key innovation and implementation in Virtual Reality for dynamic player animation, social features, UGC tools, and UI/UX.
 
 *** 
-# <span style="color: lightblue;">5TH Cell Media, LLC, Bellevue WA (2009 - 2015)</span><br>
+# <img src="/logos/5thcell.png" alt="5TH Cell Media" style="height: 1.2em; vertical-align: middle; margin-right: 8px;"> <span style="color: lightblue;">5TH Cell Media, LLC, Bellevue WA (2009 - 2015)</span><br>
 <span style="color:rgb(24, 192, 128) ;">Lead Gameplay Programmer (2012-2015)</span><br>
 <span style="color:rgb(24, 192, 128) ;">Gameplay Programmer (2009-2012)</span><br>
 * Founding Engineer for the award-winning Scribblenauts franchise across multiple Nintendo platforms shipping over 13M units both as a contributor and engineering leader.
