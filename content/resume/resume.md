@@ -52,7 +52,7 @@ template = "page.html"
 # <span style="color: lightblue;">5TH Cell Media, LLC, Bellevue WA (2009 - 2015)</span><br>
 <span style="color:rgb(24, 192, 128) ;">Lead Gameplay Programmer (2012-2015)</span><br>
 <span style="color:rgb(24, 192, 128) ;">Gameplay Programmer (2009-2012)</span><br>
-* Founding Engineer for the award-winning Scribblenauts ranchise across multiple Nintendo platforms shipping over 13M Uunits both as a contributor and engineering leader.
+* Founding Engineer for the award-winning Scribblenauts franchise across multiple Nintendo platforms shipping over 13M units both as a contributor and engineering leader.
 
 <span style="color: rgb(120, 192, 160);">Scribblenauts Unmasked — Nintendo 3DS/WiiU and PC — 2013</span>
 
