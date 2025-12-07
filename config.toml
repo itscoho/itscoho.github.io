@@ -37,6 +37,8 @@ menu_items = [
     {name = "home", url = "/"},
     {name = "resume", url = "/resume"},
     {name = "blog", url = "/blog"},
+    {name = "github", url = "https://github.com/itscoho/"},
+    {name = "linkedin", url = "http://linkedin.com/in/matthewwgross/"}
 ]
 
 # Post navigation
